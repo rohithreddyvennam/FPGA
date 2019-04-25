@@ -1,2 +1,2 @@
-# FPGA-LAB
-FPGA LAB Project :  Design of QPSK Modulator &amp; Demodulator using FPGA
+# FPGA
+FPGA Project :  Design of QPSK Modulator & Demodulator using FPGA
